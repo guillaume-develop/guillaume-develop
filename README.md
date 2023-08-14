@@ -3,7 +3,7 @@ Bonjour, je m'appele Guillaume Roy et je suis en reconversion professionelle dev
 J'apprends actuellement les language : HTML5, CSS3, JAVASCRIPT, PHP et SQL
 J'apprends également les frameworks REACT et Synfony, le CMS WordPress et les bibliothèques Bootstrap et JQuery
 
-Je recherche actuellement un stage qui m'aidera à connaitre le traval en entrprise, à aquerir de nouvelles compétences et à aiguiser celles déjà mises en oeuvre..
+Je recherche actuellement un premier emploi junior.
 
 Vous pouvez me joindre à ces coordonnées : 
 

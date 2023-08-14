@@ -1,4 +1,4 @@
-Bonjour, je m'appele Guillaume Roy et je suis en reconversion professionelle developpeur web
+mploiBonjour, je m'appele Guillaume Roy et je suis en reconversion professionelle developpeur web
 
 J'apprends actuellement les language : HTML5, CSS3, JAVASCRIPT, PHP et SQL
 J'apprends également les frameworks REACT et Synfony, le CMS WordPress et les bibliothèques Bootstrap et JQuery
